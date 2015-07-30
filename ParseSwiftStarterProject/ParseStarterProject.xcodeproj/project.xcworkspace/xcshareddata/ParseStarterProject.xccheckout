@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9D1AD741-FD13-4D8A-A4CB-613D8D694DD1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParseStarterProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FA65519EF8E8699919F733FE66BD58579A2C38A0</key>
+		<string>https://github.com/scottyoshimura/instaClone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ParseSwiftStarterProject/ParseStarterProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA65519EF8E8699919F733FE66BD58579A2C38A0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/scottyoshimura/instaClone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA65519EF8E8699919F733FE66BD58579A2C38A0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA65519EF8E8699919F733FE66BD58579A2C38A0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>instaClone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
